@@ -71,7 +71,7 @@ This project involves developing a chatbot designed to answer "how-to" questions
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/shreyash0019/chat-bot-zeotap-assignment.git
-   cd cdp-support-agent-chatbot
+   cd chat-bot-zeotap-assignmen
    ```
 
 2. **Environment Setup**  
