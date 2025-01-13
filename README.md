@@ -1,10 +1,15 @@
-# chat-bot-zeotap-assignment
 
 # Support Agent Chatbot for CDP "How-to" Questions
 
 ## Overview  
 This project involves developing a chatbot designed to answer "how-to" questions related to four major Customer Data Platforms (CDPs): Segment, mParticle, Lytics, and Zeotap. The chatbot utilizes the official documentation of these platforms to guide users in performing tasks or achieving specific outcomes.
 
+
+### Data Sources:  
+- **Segment Documentation**: [Segment Docs](https://segment.com/docs/?ref=nav)  
+- **mParticle Documentation**: [mParticle Docs](https://docs.mparticle.com/)  
+- **Lytics Documentation**: [Lytics Docs](https://docs.lytics.com/)  
+- **Zeotap Documentation**: [Zeotap Docs](https://docs.zeotap.com/home/en-us/)
 ---
 
 ## Features  
@@ -136,8 +141,4 @@ cdp-support-agent-chatbot/
 │   ├── app.js              # Express app setup
 │   └── package.json
 └── README.md
-```
-
----
-
-
+``
